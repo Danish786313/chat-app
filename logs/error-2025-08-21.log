@@ -1,0 +1,182 @@
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5400,
+  level: 'error',
+  message: 'Uncaught Exception: listen EADDRINUSE: address already in use :::5400',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5400\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n' +
+    '    at listenInCluster (node:net:1994:12)\n' +
+    '    at Server.listen (node:net:2099:7)\n' +
+    '    at initializeServer (F:\\temp\\server\\index.js:44:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  timestamp: '2025-08-21T12:19:34.501Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5400,
+  level: 'error',
+  message: 'Uncaught Exception: listen EADDRINUSE: address already in use :::5400',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5400\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n' +
+    '    at listenInCluster (node:net:1994:12)\n' +
+    '    at Server.listen (node:net:2099:7)\n' +
+    '    at initializeServer (F:\\temp\\server\\index.js:44:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  timestamp: '2025-08-21T12:19:52.940Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5400,
+  level: 'error',
+  message: 'Uncaught Exception: listen EADDRINUSE: address already in use :::5400',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5400\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n' +
+    '    at listenInCluster (node:net:1994:12)\n' +
+    '    at Server.listen (node:net:2099:7)\n' +
+    '    at initializeServer (F:\\temp\\server\\index.js:44:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  timestamp: '2025-08-21T12:20:11.821Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5400,
+  level: 'error',
+  message: 'Uncaught Exception: listen EADDRINUSE: address already in use :::5400',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5400\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n' +
+    '    at listenInCluster (node:net:1994:12)\n' +
+    '    at Server.listen (node:net:2099:7)\n' +
+    '    at initializeServer (F:\\temp\\server\\index.js:44:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  timestamp: '2025-08-21T12:20:47.768Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5400,
+  level: 'error',
+  message: 'Uncaught Exception: listen EADDRINUSE: address already in use :::5400',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5400\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n' +
+    '    at listenInCluster (node:net:1994:12)\n' +
+    '    at Server.listen (node:net:2099:7)\n' +
+    '    at initializeServer (F:\\temp\\server\\index.js:44:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  timestamp: '2025-08-21T12:20:56.573Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5400,
+  level: 'error',
+  message: 'Uncaught Exception: listen EADDRINUSE: address already in use :::5400',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5400\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n' +
+    '    at listenInCluster (node:net:1994:12)\n' +
+    '    at Server.listen (node:net:2099:7)\n' +
+    '    at initializeServer (F:\\temp\\server\\index.js:44:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  timestamp: '2025-08-21T12:21:10.406Z'
+}
+{
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 5400,
+  level: 'error',
+  message: 'Uncaught Exception: listen EADDRINUSE: address already in use :::5400',
+  stack: 'Error: listen EADDRINUSE: address already in use :::5400\n' +
+    '    at Server.setupListenHandle [as _listen2] (node:net:1937:16)\n' +
+    '    at listenInCluster (node:net:1994:12)\n' +
+    '    at Server.listen (node:net:2099:7)\n' +
+    '    at initializeServer (F:\\temp\\server\\index.js:44:12)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)',
+  timestamp: '2025-08-21T12:21:51.844Z'
+}
+{
+  error: 'User Id is required.',
+  stack: 'Error: User Id is required.\n' +
+    '    at Socket.register (F:\\temp\\server\\chat\\eventController.js:21:33)\n' +
+    '    at Socket.<anonymous> (F:\\temp\\server\\utils\\util.js:95:26)\n' +
+    '    at Socket.emit (node:events:524:28)\n' +
+    '    at Socket.emitUntyped (F:\\temp\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at F:\\temp\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)',
+  socketId: 'mNTej0wq5wGQcGsiAAAB',
+  level: 'error',
+  message: 'Socket async error:',
+  timestamp: '2025-08-21T12:24:42.461Z'
+}
+{
+  error: 'User Id is required.',
+  stack: 'Error: User Id is required.\n' +
+    '    at Socket.register (F:\\temp\\server\\chat\\eventController.js:21:33)\n' +
+    '    at Socket.<anonymous> (F:\\temp\\server\\utils\\util.js:95:26)\n' +
+    '    at Socket.emit (node:events:524:28)\n' +
+    '    at Socket.emitUntyped (F:\\temp\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at F:\\temp\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)',
+  socketId: 'mNTej0wq5wGQcGsiAAAB',
+  level: 'error',
+  message: 'Socket async error:',
+  timestamp: '2025-08-21T12:24:44.540Z'
+}
+{
+  error: 'Chat Id is required.',
+  stack: 'Error: Chat Id is required.\n' +
+    '    at Socket.joinChat (F:\\temp\\server\\chat\\eventController.js:45:33)\n' +
+    '    at Socket.<anonymous> (F:\\temp\\server\\utils\\util.js:95:26)\n' +
+    '    at Socket.emit (node:events:524:28)\n' +
+    '    at Socket.emitUntyped (F:\\temp\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at F:\\temp\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)',
+  socketId: 'mNTej0wq5wGQcGsiAAAB',
+  level: 'error',
+  message: 'Socket async error:',
+  timestamp: '2025-08-21T12:26:08.189Z'
+}
+{
+  error: 'User id is required.',
+  stack: 'Error: User id is required.\n' +
+    '    at Socket.sendMessage (F:\\temp\\server\\chat\\eventController.js:114:33)\n' +
+    '    at Socket.<anonymous> (F:\\temp\\server\\utils\\util.js:95:26)\n' +
+    '    at Socket.emit (node:events:524:28)\n' +
+    '    at Socket.emitUntyped (F:\\temp\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at F:\\temp\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)',
+  socketId: 'mNTej0wq5wGQcGsiAAAB',
+  level: 'error',
+  message: 'Socket async error:',
+  timestamp: '2025-08-21T12:26:46.275Z'
+}
+{
+  error: 'Message data is required.',
+  stack: 'Error: Message data is required.\n' +
+    '    at Socket.sendMessage (F:\\temp\\server\\chat\\eventController.js:116:33)\n' +
+    '    at Socket.<anonymous> (F:\\temp\\server\\utils\\util.js:95:26)\n' +
+    '    at Socket.emit (node:events:524:28)\n' +
+    '    at Socket.emitUntyped (F:\\temp\\server\\node_modules\\socket.io\\dist\\typed-events.js:69:22)\n' +
+    '    at F:\\temp\\server\\node_modules\\socket.io\\dist\\socket.js:697:39\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)',
+  socketId: 'mNTej0wq5wGQcGsiAAAB',
+  level: 'error',
+  message: 'Socket async error:',
+  timestamp: '2025-08-21T12:26:58.831Z'
+}
