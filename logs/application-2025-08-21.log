@@ -461,3 +461,29 @@
   message: 'Server running on http://localhost:5400',
   timestamp: '2025-08-21T12:29:47.345Z'
 }
+{
+  message: 'Redis adapter configured for Socket.IO clustering',
+  level: 'info',
+  timestamp: '2025-08-21T12:46:38.878Z'
+}
+{
+  port: 5400,
+  nodeEnv: undefined,
+  serverId: 18780,
+  level: 'info',
+  message: 'Server running on http://localhost:5400',
+  timestamp: '2025-08-21T12:46:38.882Z'
+}
+{
+  message: 'Redis adapter configured for Socket.IO clustering',
+  level: 'info',
+  timestamp: '2025-08-21T13:17:33.150Z'
+}
+{
+  port: 5400,
+  nodeEnv: undefined,
+  serverId: 3900,
+  level: 'info',
+  message: 'Server running on http://localhost:5400',
+  timestamp: '2025-08-21T13:17:33.155Z'
+}
